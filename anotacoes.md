@@ -1,7 +1,7 @@
 # Anotações
 
  - Utilização do Typora e Markdown.
- - O que foi apresentado na Introdução ao Git e ao GitHub: Comandos basicos para um bom desempenho no terminal, intalação do Git, Objetos internos do Git, chave SSH e Token, iniciando o Git e criando um commit. 
+ - O que foi apresentado na Introdução ao Git e ao GitHub: Comandos básicos para um bom desempenho no terminal, instalação do Git, Objetos internos do Git, chave SSH e Token, iniciando o Git e criando um commit. 
 
 #
 
