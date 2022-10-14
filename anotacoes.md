@@ -10,4 +10,4 @@
  - cd +tab vai completar o nome tipo w... windows
  - mkdir "workspace" - criar uma pasta
  - cd + "workspace" vai buscar a pasta que foi criada
- - rmdir "workspace" /s /q para deletar a pasta criada/repositorio
+ - rmdir "workspace" /s /q para deletar a pasta criada/repositorio.
