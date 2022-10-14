@@ -11,3 +11,5 @@
  - mkdir "workspace" - criar uma pasta
  - cd + "workspace" vai buscar a pasta que foi criada
  - rmdir "workspace" /s /q para deletar a pasta criada/repositorio.
+
+*Workspace foi o nome dado a pasta criada. Ele deverá ser substituído.
